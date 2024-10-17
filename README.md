@@ -12,7 +12,7 @@ This project focuses on predicting heart disease using the Heart Disease UCI dat
 ### Data Cleaning & Preprocessing:
 
 #### Performed necessary preprocessing steps
-1.) Handled missing data.<br/>
+1.) Analyzed data to check if dataset had missing values.<br/>
 2.) Converted categorical variables using one-hot encoding for columns like 'cp' (chest pain type) and 'thal.'
 ### Train-Test Split:
 
