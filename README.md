@@ -1,9 +1,7 @@
 # Heart-Disease-Prediction-Project
-Using two Machine Learning Models to predict heart disease.<br/>
-Both the jupyter notebook and heart dataset are provided.<br/>
-The data set is also availble on Kaggle
+Using two Machine Learning Models to predict heart disease.
 # Overview
-This project focuses on predicting heart disease using the Heart Disease UCI dataset from Kaggle. I used two machine learning models: Random Forest Classifier and Logistic Regression to classify whether a person has heart disease based on various health indicators.
+This project focuses on predicting heart disease using the Heart Disease UCI dataset from Kaggle. I used two machine learning models: Random Forest Classifier and Logistic Regression to classify whether a person has heart disease based on various health indicators. Both the jupyter notebook and heart dataset are provided.<br/>
 
 # Steps Followed
 
